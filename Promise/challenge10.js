@@ -25,4 +25,7 @@ Result:
 start
 end
 promise1
+timer1
+promise2
+timer2
 */
